@@ -18,6 +18,7 @@ Usecases for SAP and Azure OpenAI from Microsoft, SAP and the Community
 - [Announcing Microsoft AI SDK for SAP | LinkedIn](https://www.linkedin.com/pulse/announcing-microsoft-ai-sdk-sap-gopal-nair/)
 - [A Cool use of Open AI in SAP GUI Editor](https://blogs.sap.com/2023/05/24/a-cool-use-of-open-ai-in-sap-gui-editor/)
 - [A ChatGPT-like chat app built with modern SAP technologies (CAP, SAPUI5) – Part 1/3](https://blogs.sap.com/2023/02/22/a-chatgpt-like-chat-app-built-with-modern-sap-technologies-cap-sapui5-part-1-2/)
+- [ChatGPT Integration with SAP: A Question-Answer Model](https://blogs.sap.com/2023/04/25/chatgpt-integration-with-sap-a-question-answer-model/)
 
 ## Business Scenarios // Announcements
 - [SAP and Microsoft Collaborate on Joint Generative AI | SAP News](https://news.sap.com/2023/05/sap-microsoft-joint-generative-ai-offerings-talent-gap/)
