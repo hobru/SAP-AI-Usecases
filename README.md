@@ -26,10 +26,12 @@ Usecases for SAP and Azure OpenAI from Microsoft, SAP and the Community
 - [Building a Azure Chatbot for SAP Data Analysis with Azure OpenAI and Microsoft Teams | LinkedIn](https://www.linkedin.com/pulse/building-azure-chatbot-sap-data-analysis-openai-microsoft-park/)
 - [ChatGPT Custom Widget: Enhance Your SAP Analytics Cloud Experience with the ChatGPT Custom Widget | SAP Blogs](https://blogs.sap.com/2023/03/09/chatgpt-custom-widget-enhance-your-sap-analytics-cloud-experience-with-the-chatgpt-custom-widget/)
 - [SAP to embed ChatGPT in products](https://www.youtube.com/watch?v=8w9uyXT-fWY)
+- [Thomas Saueressig and Scott Guthrie talking about Microsoft Cloud & AI](https://www.linkedin.com/posts/thsaueressig_innovation-artificialintelligence-partnership-activity-7099777950912262145-2hIh)
 
 ## Partner Solutions
 - [EY announces modernization of payroll employee care using ChatGPT In Azure OpenAI | EY - Global](https://www.ey.com/en_gl/news/2023/03/ey-announces-modernization-of-payroll-employee-care-using-chatgpt-in-azure-openai)
-- 
+- [Kyndryl and Microsoft Collaborate to Speed the Evaluation and Adoption of Enterprise-Grade Generative AI for Business](https://www.kyndryl.com/us/en/about-us/news/2023/08/generative-ai-for-enterprise-with-microsoft)
+
 ## Other
 - [DSAG AK OpenAI & SAP](https://dsagnet.de/dsag-resource?id=360860&app=info)
  
