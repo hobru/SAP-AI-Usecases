@@ -24,6 +24,7 @@ Usecases for SAP and Azure OpenAI from Microsoft, SAP and the Community
 - [A ChatGPT-like chat app built with modern SAP technologies (CAP, SAPUI5) – Part 1/3](https://blogs.sap.com/2023/02/22/a-chatgpt-like-chat-app-built-with-modern-sap-technologies-cap-sapui5-part-1-2/)
 - [ChatGPT Integration with SAP: A Question-Answer Model](https://blogs.sap.com/2023/04/25/chatgpt-integration-with-sap-a-question-answer-model/)
 - [Leveraging AI for Enhanced SAP Data Analysis & Visualization](https://www.linkedin.com/pulse/leveraging-ai-enhanced-sap-data-analysis-chanjin-park)
+- [Building GPT-4 powered bots for SAP enterprise data on Microsoft Teams: A Low-Code Approach](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/building-gpt-4-powered-bots-for-sap-enterprise-data-on-microsoft/ba-p/3902018) 
 
 ## Business Scenarios // Announcements
 - [SAP and Microsoft Collaborate on Joint Generative AI | SAP News](https://news.sap.com/2023/05/sap-microsoft-joint-generative-ai-offerings-talent-gap/)
@@ -47,6 +48,7 @@ Usecases for SAP and Azure OpenAI from Microsoft, SAP and the Community
 - [SAP on Azure Podcast - #149 - The one with SAP, Azure Open AI and Power Virtual Agent (Michael Mergell)](https://youtu.be/IO1cNyAJcYI?t=1820)
 - [SAP on Azure Podcast - #153 - The one with Private Link and Azure OpenAI (Harutyun Ter-Minasyan, Martin Pankraz)](https://youtu.be/AfFA6I5jd1Q?t=1242)
 - [SAP on Azure Podcast - #156 - The one with the AI SDK for ABAP (Gopal Nair)](https://youtu.be/4FXpK3dsBvI?t=956)
+- [SAP on Azure Podcast - #157 - The one with SAP, Teams, Power and AI - Internship @ Microsoft (Noopur Vaishnav)](https://www.youtube.com/watch?v=JOwDbzEB9yA)
 - [The Potential of Generative AI for SAP Code Development | SAP Sapphire 2023](https://www.youtube.com/watch?v=WekxJPy-QEE)
 - [SAP & Microsoft: Generative AI Use Cases | SAP Sapphire 2023](https://www.youtube.com/watch?v=bkRKRLpMesA)
 - [SAP and Microsoft: Generative AI Demo | SAP Sapphire 2023](https://www.youtube.com/watch?v=cCZIshDi3jQ)
